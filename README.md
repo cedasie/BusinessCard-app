@@ -1,6 +1,6 @@
 # 🪪 Digital Business Card App
 
-A modern, elegant digital business card application built with React Native, Expo, and Bun. Share your professional identity with style and ease.
+A modern, elegant digital business card application built with React Native, Expo, and Bun.
 
 ## ✨ Features
 
